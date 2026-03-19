@@ -1,0 +1,586 @@
+id_cliente,nombre,email,genero,fecha_nacimiento,ciudad,segmento
+1,José Chávez Pérez,jose.chavez.perez1@gmail.com,Hombre,2011-11-24,SanMiguel,nan
+5,Fernanda Chávez Rojas,fernanda.chavez.rojas5@seguro.sv,nan,1945-08-02,San Salvador,Pyme
+6,Ricardo López Vásquez,ricardo.lopez.vasquez6@seguro.sv,Hombre,1966-10-15,sonsonate,PYME
+13,Carlos Santos Morales,carlos.santos.morales6@correo.com,M,1975-08-02,Santa Ana,Regular
+17,Diego García Flores,diego.garcia.flores3@seguro.sv,Mujer,1980-06-10,L. Libertad,VIP
+19,Ana Mendoza Ramírez,ana.mendoza.ramirez5@seguro.sv,nan,1947-09-06,SantaAna,PYME
+20,Paula López García,paula.lopez.garcia6@correo.com,Female,1966-05-25,SanMiguel,nan
+28,Paula Castillo Santos,paula.castillo.santos0@gmail.com,F,1978-06-21,San salvador,PREMIUM
+33,Ricardo Chávez García,ricardo.chavez.garcia5@seguro.sv,femenino,1993-08-26,San Miguel,vip
+46,Daniela Santos Reyes,daniela.santos.reyes4@seguro.sv,M,1949-01-01,La Libertad,Premium
+47,Andrés Pérez García,andres.perez.garcia5@example.com,femenino,1982-02-13,La Libertad,REGULAR
+50,Marta Martínez Castillo,marta.martinez.castillo1@correo.com,Masculino,1972-02-28,La Libertad,Premium
+55,Ana Santos Martínez,ana.santos.martinez6@example.com,Masculino,1994-05-27,san miguel,PREMIUM
+67,Marta Pérez Torres,marta.perez.torres4@correo.com,Fem,1940-04-02,san miguel,vip
+70,José Chávez Mendoza,jose.chavez.mendoza0@mail.com,m,1959-11-16,SanMiguel,VIP
+73,Carlos Chávez Mendoza,carlos.chavez.mendoza3@mail.com,m,1994-04-25,SantaAna,PYME
+78,Fernanda Vásquez Hernández,fernanda.vasquez.hernandez1@correo.com,nan,2008-06-01,Sonsonate,nan
+80,Jorge Morales García,jorge.morales.garcia3@mail.com,M,1952-09-22,SantaAna,Pyme
+81,Paula Reyes Gómez,paula.reyes.gomez4@example.com,Mujer,1973-03-13,San Salvador,Premium
+94,Pedro Castillo García,pedro.castillo.garcia3@mail.com,Mujer,1997-11-01,Sonsonate,PYME
+96,Daniela Pérez Martínez,daniela.perez.martinez5@example.com,M,1980-06-01,Santa Ana,PREMIUM
+100,Carlos Ortiz Morales,carlos.ortiz.morales2@correo.com,m,1997-09-23,SanSalvador,nan
+104,Diego Chávez Torres,diego.chavez.torres6@seguro.sv,Masculino,1965-07-24,Sta. Ana,PYME
+105,Sofía Vásquez Santos,sofia.vasquez.santos0@example.com,nan,1979-07-12,Sonsonate,Premium
+106,Sofía Torres Pérez,sofia.torres.perez1@seguro.sv,femenino,1962-06-06,San Salvador,vip
+112,Paula García Hernández,paula.garcia.hernandez0@mail.com,m,1984-11-03,sonsonate,Premium
+128,Fernanda Castillo Castillo,fernanda.castillo.castillo2@correo.com,femenino,1954-02-17,Santa Ana,PREMIUM
+133,Diego Vásquez Mendoza,diego.vasquez.mendoza0@example.com,Masculino,1965-06-25,san miguel,Regular
+140,Carmen Reyes Santos,carmen.reyes.santos0@correo.com,nan,2004-09-10,LaLibertad,Regular
+141,Ricardo López García,ricardo.lopez.garcia1@correo.com,Masculino,1975-04-12,San Miguel,VIP
+143,Valeria Vásquez Morales,valeria.vasquez.morales3@mail.com,Mujer,1972-10-30,Sta. Ana,nan
+144,Carlos García Morales,carlos.garcia.morales4@gmail.com,Female,1985-03-28,Sonsonate,Premium
+146,Lucía Mendoza Martínez,lucia.mendoza.martinez6@example.com,nan,1944-01-24,la libertad,nan
+163,Ana Reyes Castillo,ana.reyes.castillo2@correo.com,Fem,1990-12-09,LaLibertad,nan
+165,Lucía Cruz Chávez,lucia.cruz.chavez4@example.com,Female,2007-08-16,Sonsonate,Regular
+168,Andrés Ortiz Aguilar,andres.ortiz.aguilar0@correo.com,Masculino,2007-12-11,San Salvador,PYME
+171,Juan Chávez Pérez,juan.chavez.perez3@gmail.com,F,1986-01-17,L. Libertad,VIP
+178,Juan Morales Chávez,juan.morales.chavez3@mail.com,Fem,1961-01-08,san miguel,nan
+189,Jorge Rojas Castillo,jorge.rojas.castillo0@correo.com,nan,1953-09-03,SantaAna,nan
+192,Andrés Pérez Cruz,andres.perez.cruz3@mail.com,Masculino,1946-02-05,L. Libertad,VIP
+193,Karla Torres Aguilar,karla.torres.aguilar4@mail.com,Hombre,1999-02-23,La Libertad,VIP
+200,María Castillo Gómez,maria.castillo.gomez4@seguro.sv,m,1990-08-05,SanMiguel,Premium
+205,Pedro Flores Hernández,pedro.flores.hernandez2@seguro.sv,nan,1951-11-20,Sonsonate,Pyme
+207,Andrés Morales García,andres.morales.garcia4@correo.com,Mujer,2005-01-10,SantaAna,Premium
+209,Ricardo García Vásquez,ricardo.garcia.vasquez6@seguro.sv,Mujer,1962-07-31,SantaAna,vip
+215,Paula Torres Aguilar,paula.torres.aguilar5@gmail.com,nan,1992-03-26,SS,nan
+216,Karla García Hernández,karla.garcia.hernandez6@example.com,Fem,2008-12-26,San Salvador,Pyme
+217,Marta Rojas Hernández,marta.rojas.hernandez0@correo.com,Hombre,1940-12-11,Sonsonate,nan
+225,Lucía Torres Morales,lucia.torres.morales1@example.com,nan,1992-08-29,Sta. Ana,nan
+231,Carlos Gómez Chávez,carlos.gomez.chavez0@seguro.sv,Hombre,1990-09-30,San Salvador,vip
+232,Valeria Ortiz Vásquez,valeria.ortiz.vasquez1@mail.com,nan,1988-08-17,SantaAna,vip
+235,Valeria Torres Ortiz,valeria.torres.ortiz4@example.com,Female,1955-02-08,San Miguel,vip
+262,Marta García Ortiz,marta.garcia.ortiz3@gmail.com,Female,2030-04-10,SantaAna,REGULAR
+265,Ricardo Martínez Pérez,ricardo.martinez.perez6@mail.com,Masculino,2003-11-05,L. Libertad,PYME
+266,María Santos Hernández,maria.santos.hernandez0@seguro.sv,M,1985-05-05,Sonsonate,Pyme
+273,Sofía Morales Vásquez,sofia.morales.vasquez0@mail.com,Mujer,2001-07-27,San Miguel,VIP
+277,Ricardo Martínez García,ricardo.martinez.garcia4@seguro.sv,Masculino,1965-02-05,Santa Ana,VIP
+278,Lucía Vásquez Aguilar,lucia.vasquez.aguilar5@example.com,Mujer,1988-11-06,SanMiguel,Regular
+288,Jorge Martínez Gómez,jorge.martinez.gomez1@gmail.com,Masculino,1994-01-16,SanSalvador,Premium
+298,Carlos Morales Aguilar,carlos.morales.aguilar4@example.com,M,1983-11-17,la libertad,REGULAR
+300,Juan Pérez Hernández,juan.perez.hernandez6@gmail.com,nan,1947-09-09,Santa Ana,VIP
+302,Lucía Martínez Mendoza,lucia.martinez.mendoza1@gmail.com,m,1991-03-31,Santa Ana,PYME
+305,Marta Flores Mendoza,marta.flores.mendoza4@mail.com,Mujer,1981-02-06,Sonsonate,vip
+306,Andrés Pérez Pérez,andres.perez.perez5@mail.com,M,1990-10-31,SS,nan
+310,Luis Castillo Chávez,luis.castillo.chavez2@example.com,nan,2009-06-10,San salvador,PYME
+311,Sofía Rojas Aguilar,sofia.rojas.aguilar3@example.com,F,2008-02-20,Santa Ana,Regular
+317,Ricardo Pérez Gómez,ricardo.perez.gomez2@correo.com,Female,1993-12-06,S. Miguel,Pyme
+318,Lucía Vásquez Chávez,lucia.vasquez.chavez3@example.com,m,1962-08-10,Sonsonate,nan
+319,José López Mendoza,jose.lopez.mendoza4@example.com,Hombre,1999-06-04,Sonso,Regular
+322,Carlos Flores Rojas,carlos.flores.rojas0@mail.com,Mujer,1976-04-18,Sta. Ana,PREMIUM
+323,Fernanda Aguilar Vásquez,fernanda.aguilar.vasquez1@correo.com,m,1985-07-06,Sta. Ana,vip
+325,Diego Castillo Rojas,diego.castillo.rojas3@example.com,Female,2010-09-14,SanMiguel,vip
+335,José Vásquez Martínez,jose.vasquez.martinez6@example.com,Hombre,1973-08-29,San Salvador,VIP
+337,Luis Ramírez López,luis.ramirez.lopez1@mail.com,m,1967-01-05,San Miguel,nan
+347,Andrés Chávez Martínez,andres.chavez.martinez4@example.com,F,1945-09-06,Sonsonate,PREMIUM
+357,Andrés Martínez Santos,andres.martinez.santos0@seguro.sv,nan,1951-01-20,sonsonate,PYME
+358,Ana Mendoza Martínez,ana.mendoza.martinez1@gmail.com,nan,1989-08-19,Santa Ana,Premium
+365,Pedro Chávez Hernández,pedro.chavez.hernandez1@gmail.com,Masculino,1995-04-10,la libertad,nan
+367,Karla Chávez Cruz,karla.chavez.cruz3@example.com,Mujer,1996-11-09,sonsonate,PREMIUM
+380,Karla García Santos,karla.garcia.santos2@mail.com,femenino,1944-01-31,SS,Regular
+385,Valeria Ramírez Hernández,valeria.ramirez.hernandez0@gmail.com,F,1956-04-08,La Libertad,vip
+396,Ricardo Chávez Martínez,ricardo.chavez.martinez4@example.com,M,1943-07-31,S. Miguel,nan
+405,María Cruz Morales,maria.cruz.morales6@mail.com,Masculino,1974-07-31,Sonsonate,Premium
+406,Karla Hernández Gómez,karla.hernandez.gomez0@gmail.com,F,1982-09-10,Sonsonate,vip
+408,Andrés Cruz Aguilar,andres.cruz.aguilar2@example.com,Mujer,2010-11-01,SanSalvador,Premium
+421,María Mendoza Castillo,maria.mendoza.castillo1@gmail.com,Female,1970-07-02,Sonso,PYME
+437,Valeria Vásquez López,valeria.vasquez.lopez3@gmail.com,Masculino,1976-12-09,Sonsonate,Premium
+459,José Morales Cruz,jose.morales.cruz4@gmail.com,nan,1940-10-19,Sta. Ana,vip
+462,Lucía Vásquez Pérez,lucia.vasquez.perez0@seguro.sv,nan,1962-06-28,San Miguel,PYME
+463,Sofía Santos Gómez,sofia.santos.gomez1@seguro.sv,Female,1988-10-08,sonsonate,vip
+473,Carmen Ortiz Morales,carmen.ortiz.morales4@correo.com,Hombre,1985-04-11,L. Libertad,REGULAR
+474,Fernanda Reyes Vásquez,fernanda.reyes.vasquez5@seguro.sv,femenino,1976-12-28,Santa Ana,nan
+484,Ricardo Santos Martínez,ricardo.santos.martinez1@mail.com,nan,1989-03-05,la libertad,Premium
+485,Ricardo Ortiz Ramírez,ricardo.ortiz.ramirez2@gmail.com,Masculino,1983-10-08,Sonsonate,PREMIUM
+490,Ricardo López Reyes,ricardo.lopez.reyes0@correo.com,Masculino,1958-10-01,Sonso,nan
+491,Ricardo Torres Pérez,ricardo.torres.perez1@mail.com,nan,2002-05-11,Sonsonate,Regular
+494,Ricardo Torres Ortiz,ricardo.torres.ortiz4@gmail.com,nan,1947-11-24,San Salvador,PREMIUM
+497,Luis Reyes Morales,luis.reyes.morales0@seguro.sv,Hombre,1998-12-08,SantaAna,PREMIUM
+498,Jorge Pérez Rojas,jorge.perez.rojas1@example.com,nan,1968-01-10,santa ana,Premium
+502,Ana Torres Torres,ana.torres.torres5@gmail.com,Masculino,1963-12-10,santa ana,VIP
+506,Juan Torres Morales,juan.torres.morales2@gmail.com,Mujer,2004-08-11,Sonsonate,VIP
+507,Daniela Hernández Chávez,daniela.hernandez.chavez3@mail.com,Masculino,1980-12-27,Sonsonate,VIP
+512,José García Hernández,jose.garcia.hernandez1@example.com,M,2003-05-11,La Libertad,nan
+513,Carmen Morales Ortiz,carmen.morales.ortiz2@correo.com,femenino,1974-02-22,santa ana,Premium
+516,Sofía Santos Aguilar,sofia.santos.aguilar5@mail.com,Mujer,1980-09-15,San salvador,nan
+522,María Aguilar Torres,maria.aguilar.torres4@example.com,nan,2010-09-17,S. Miguel,nan
+530,Marta Morales Ortiz,marta.morales.ortiz5@seguro.sv,Fem,1954-11-21,SS,REGULAR
+535,María Reyes Chávez,maria.reyes.chavez3@example.com,F,1944-02-20,san miguel,REGULAR
+537,Valeria Hernández López,valeria.hernandez.lopez5@mail.com,Masculino,1995-11-20,San Miguel,REGULAR
+538,Valeria Pérez Castillo,valeria.perez.castillo6@mail.com,Female,1991-07-03,San Miguel,PYME
+544,Jorge Pérez Mendoza,jorge.perez.mendoza5@mail.com,femenino,1949-03-26,SS,nan
+547,María Santos Aguilar,maria.santos.aguilar1@seguro.sv,femenino,1950-04-04,SanSalvador,Premium
+550,Lucía Torres Santos,lucia.torres.santos4@example.com,Female,1980-02-12,SanMiguel,REGULAR
+555,Ricardo Rojas Pérez,ricardo.rojas.perez2@seguro.sv,nan,1947-08-06,La Libertad,Premium
+566,Ricardo Rojas Morales,ricardo.rojas.morales6@correo.com,Masculino,1961-05-07,San Miguel,Regular
+567,José Martínez Gómez,jose.martinez.gomez0@example.com,nan,1981-08-17,SantaAna,Pyme
+570,José Flores Santos,jose.flores.santos3@correo.com,m,1975-02-03,Santa Ana,REGULAR
+573,Karla Ramírez Torres,karla.ramirez.torres6@mail.com,M,1997-03-30,SantaAna,nan
+580,Diego López Morales,diego.lopez.morales6@seguro.sv,M,2001-11-01,Sonso,REGULAR
+581,Carlos Morales Martínez,carlos.morales.martinez0@mail.com,femenino,1996-09-21,San Miguel,PYME
+584,Diego Aguilar Morales,diego.aguilar.morales3@example.com,nan,1945-08-26,La Libertad,VIP
+598,Carmen López Aguilar,carmen.lopez.aguilar3@correo.com,nan,1986-03-12,Sonso,Pyme
+603,Carlos Torres Gómez,carlos.torres.gomez1@gmail.com,Fem,2010-10-31,sonsonate,vip
+605,Marta Rojas Santos,marta.rojas.santos3@gmail.com,Fem,1959-12-14,SanSalvador,VIP
+610,Juan Castillo Rojas,juan.castillo.rojas1@gmail.com,Hombre,2007-07-18,Santa Ana,nan
+619,Marta Rojas Santos,marta.rojas.santos3@example.com,nan,1970-10-02,Sonsonate,PYME
+626,Paula Reyes Hernández,paula.reyes.hernandez3@mail.com,Fem,2005-08-21,SS,VIP
+627,Lucía Torres Cruz,lucia.torres.cruz4@example.com,F,1980-01-04,Santa Ana,nan
+637,Andrés Flores Aguilar,andres.flores.aguilar0@example.com,Hombre,2002-04-14,SS,Premium
+642,Sofía Pérez Mendoza,sofia.perez.mendoza5@gmail.com,Mujer,1959-11-02,Sonsonate,vip
+647,Juan García Castillo,juan.garcia.castillo3@mail.com,M,1999-11-22,Santa Ana,PREMIUM
+649,Karla Cruz Mendoza,karla.cruz.mendoza5@gmail.com,F,1991-02-27,santa ana,Regular
+651,Paula Hernández Gómez,paula.hernandez.gomez0@seguro.sv,Masculino,1971-10-31,SantaAna,vip
+656,José Gómez García,jose.gomez.garcia5@example.com,Masculino,1972-08-18,La Libertad,PREMIUM
+660,Marta Pérez Castillo,marta.perez.castillo2@mail.com,m,1995-10-19,LaLibertad,PREMIUM
+661,Carlos Aguilar Aguilar,carlos.aguilar.aguilar3@example.com,Hombre,1985-04-15,San Salvador,Pyme
+675,Daniela Gómez Santos,daniela.gomez.santos3@seguro.sv,Female,1984-10-13,Sonsonate,nan
+677,María Ramírez Rojas,maria.ramirez.rojas5@correo.com,Female,1963-12-12,SantaAna,PREMIUM
+679,Juan Ramírez Gómez,juan.ramirez.gomez0@example.com,Female,1964-06-19,Santa Ana,PYME
+681,Diego Hernández Santos,diego.hernandez.santos2@mail.com,Hombre,2005-11-22,Sonso,PYME
+682,María Cruz Torres,maria.cruz.torres3@example.com,femenino,1950-12-20,la libertad,Pyme
+685,Luis Vásquez Aguilar,luis.vasquez.aguilar6@example.com,F,2004-03-16,San Salvador,PREMIUM
+690,Carmen Chávez Pérez,carmen.chavez.perez4@example.com,femenino,1940-04-10,San Salvador,Premium
+699,Sofía Morales Rojas,sofia.morales.rojas6@mail.com,M,2006-01-14,San Salvador,REGULAR
+701,Lucía Castillo Morales,lucia.castillo.morales1@gmail.com,F,2000-03-21,Sta. Ana,Premium
+707,José Vásquez García,jose.vasquez.garcia0@correo.com,Fem,1958-04-11,San Miguel,nan
+714,Andrés Castillo Torres,andres.castillo.torres0@mail.com,femenino,1951-10-12,SantaAna,PYME
+718,Daniela Rojas Castillo,daniela.rojas.castillo4@mail.com,F,1991-01-02,San Salvador,Pyme
+749,Carlos Santos López,carlos.santos.lopez0@correo.com,Mujer,1980-08-26,Sonsonate,PREMIUM
+754,Andrés Gómez Pérez,andres.gomez.perez5@seguro.sv,Fem,1985-05-17,Sonsonate,PREMIUM
+764,Jorge Chávez García,jorge.chavez.garcia1@example.com,nan,2012-05-23,SanSalvador,VIP
+771,Diego Ortiz Pérez,diego.ortiz.perez1@seguro.sv,M,1967-04-30,santa ana,REGULAR
+773,Carlos Gómez López,carlos.gomez.lopez3@seguro.sv,Female,1945-05-25,SanMiguel,REGULAR
+775,José Pérez Ortiz,jose.perez.ortiz5@correo.com,Mujer,1965-01-26,S. Miguel,Regular
+777,Luis López Torres,luis.lopez.torres0@correo.com,nan,2030-01-22,LaLibertad,nan
+782,Valeria Santos Mendoza,valeria.santos.mendoza5@correo.com,m,1984-04-26,Sonsonate,Premium
+785,Andrés Flores Hernández,andres.flores.hernandez1@seguro.sv,femenino,2001-01-07,San salvador,VIP
+789,Marta Martínez Reyes,marta.martinez.reyes5@mail.com,Mujer,1986-08-15,La Libertad,PYME
+792,Lucía Morales Hernández,lucia.morales.hernandez1@correo.com,Mujer,1995-05-19,SanSalvador,Pyme
+793,Paula Rojas Torres,paula.rojas.torres2@mail.com,nan,1995-07-21,San Miguel,PREMIUM
+794,José Hernández López,jose.hernandez.lopez3@gmail.com,Masculino,1993-05-24,Santa Ana,Regular
+796,Carlos Santos Rojas,carlos.santos.rojas5@example.com,Female,1986-01-13,sonsonate,Premium
+797,Ricardo Castillo Torres,ricardo.castillo.torres6@mail.com,Hombre,1970-10-06,Santa Ana,PREMIUM
+822,Juan Pérez Pérez,juan.perez.perez3@gmail.com,Mujer,1969-08-17,LaLibertad,PREMIUM
+823,Lucía García Ortiz,lucia.garcia.ortiz4@mail.com,femenino,1974-09-01,L. Libertad,vip
+826,Ana Gómez Reyes,ana.gomez.reyes0@mail.com,Fem,1976-11-10,LaLibertad,vip
+827,Lucía Ramírez Pérez,lucia.ramirez.perez1@seguro.sv,Fem,1958-06-14,Sonso,nan
+837,Valeria Pérez Chávez,valeria.perez.chavez4@mail.com,m,1972-02-15,SantaAna,VIP
+861,Ana Hernández García,ana.hernandez.garcia0@seguro.sv,nan,1997-10-23,San Salvador,PREMIUM
+865,Carmen Vásquez Gómez,carmen.vasquez.gomez4@seguro.sv,Fem,2003-03-01,SanSalvador,nan
+868,Ricardo Aguilar Hernández,ricardo.aguilar.hernandez0@mail.com,m,1940-11-07,San Salvador,PREMIUM
+873,Ana Vásquez Martínez,ana.vasquez.martinez5@seguro.sv,Masculino,2012-06-13,LaLibertad,nan
+875,Daniela Santos Mendoza,daniela.santos.mendoza0@mail.com,Female,1942-11-06,la libertad,PYME
+898,Fernanda Gómez Rojas,fernanda.gomez.rojas2@gmail.com,Female,2030-05-02,la libertad,nan
+906,Jorge Aguilar Hernández,jorge.aguilar.hernandez3@gmail.com,Female,1987-06-15,San Miguel,vip
+907,Juan Gómez Reyes,juan.gomez.reyes4@example.com,m,2007-06-15,Sonsonate,Pyme
+911,Marta García García,marta.garcia.garcia1@mail.com,Fem,1946-11-18,San Salvador,Regular
+913,Lucía López Torres,lucia.lopez.torres3@mail.com,nan,1957-01-22,san miguel,nan
+916,José Castillo Castillo,jose.castillo.castillo6@correo.com,F,1983-05-06,la libertad,Regular
+928,Lucía Martínez Flores,lucia.martinez.flores4@seguro.sv,F,1957-03-29,Santa Ana,VIP
+933,Fernanda Pérez Reyes,fernanda.perez.reyes2@example.com,Mujer,1972-05-07,Sonso,PREMIUM
+934,Valeria Ramírez Santos,valeria.ramirez.santos3@mail.com,Fem,1974-06-15,San Salvador,nan
+936,Fernanda Pérez Martínez,fernanda.perez.martinez5@gmail.com,Female,1951-06-20,S. Miguel,PYME
+939,Carmen Chávez Mendoza,carmen.chavez.mendoza1@seguro.sv,nan,1974-06-18,san miguel,Premium
+961,Fernanda Aguilar Ortiz,fernanda.aguilar.ortiz2@seguro.sv,M,1988-02-08,La Libertad,nan
+968,Lucía Rojas Chávez,lucia.rojas.chavez2@example.com,Mujer,1989-09-18,san miguel,Pyme
+974,Juan Reyes García,juan.reyes.garcia1@example.com,nan,2030-06-25,Sta. Ana,Pyme
+975,Pedro Pérez Hernández,pedro.perez.hernandez2@gmail.com,M,1969-09-21,Santa Ana,nan
+977,Sofía Pérez Gómez,sofia.perez.gomez4@gmail.com,m,1985-01-01,SanMiguel,Premium
+990,María Flores Morales,maria.flores.morales3@seguro.sv,nan,1947-05-01,Sta. Ana,Premium
+997,Paula Rojas Rojas,paula.rojas.rojas3@gmail.com,nan,1971-07-22,San Miguel,Premium
+1004,Andrés Cruz Ortiz,andres.cruz.ortiz3@seguro.sv,F,1975-02-10,la libertad,Pyme
+1008,Pedro Gómez Cruz,pedro.gomez.cruz0@example.com,Masculino,1998-07-16,SantaAna,Regular
+1012,Carmen Gómez Castillo,carmen.gomez.castillo4@gmail.com,m,1940-11-28,San Salvador,REGULAR
+1016,Pedro Ortiz Castillo,pedro.ortiz.castillo1@seguro.sv,nan,1981-11-25,la libertad,Regular
+1025,Ricardo Martínez Flores,ricardo.martinez.flores3@seguro.sv,Fem,1977-10-16,San Miguel,Pyme
+1028,Valeria Reyes Vásquez,valeria.reyes.vasquez6@example.com,nan,1975-12-01,SanSalvador,Regular
+1030,José Reyes Rojas,jose.reyes.rojas1@correo.com,femenino,1960-04-21,San Salvador,Regular
+1040,María Vásquez Rojas,maria.vasquez.rojas4@gmail.com,nan,1959-01-09,San Miguel,PYME
+1058,Juan Flores Pérez,juan.flores.perez1@gmail.com,m,1971-06-02,Santa Ana,Regular
+1067,José Castillo Santos,jose.castillo.santos3@mail.com,M,1983-03-12,Sonsonate,PREMIUM
+1072,Luis López Gómez,luis.lopez.gomez1@correo.com,Fem,1952-09-16,sonsonate,PYME
+1079,Valeria Pérez Reyes,valeria.perez.reyes1@example.com,Mujer,1992-10-29,La Libertad,VIP
+1081,José Gómez Morales,jose.gomez.morales3@mail.com,F,2007-10-22,San Miguel,VIP
+1089,Carlos García Ortiz,carlos.garcia.ortiz4@gmail.com,Mujer,1991-08-14,SanMiguel,nan
+1097,Diego Cruz García,diego.cruz.garcia5@seguro.sv,Hombre,1992-10-21,San Salvador,PREMIUM
+1100,Sofía Aguilar Vásquez,sofia.aguilar.vasquez1@example.com,femenino,1959-10-06,san miguel,nan
+1101,Valeria Reyes Ortiz,valeria.reyes.ortiz2@example.com,nan,1985-03-01,L. Libertad,vip
+1111,Paula López Chávez,paula.lopez.chavez5@seguro.sv,m,1943-04-27,SantaAna,VIP
+1115,Pedro Ortiz Martínez,pedro.ortiz.martinez2@mail.com,M,1993-11-17,La Libertad,nan
+1118,Pedro Martínez Castillo,pedro.martinez.castillo5@mail.com,M,1953-06-18,Sta. Ana,nan
+1124,Jorge Pérez Ortiz,jorge.perez.ortiz4@seguro.sv,m,1961-12-22,Santa Ana,Regular
+1128,Fernanda Cruz Castillo,fernanda.cruz.castillo1@example.com,Mujer,1950-09-05,Sonsonate,VIP
+1142,María Mendoza Ramírez,maria.mendoza.ramirez1@seguro.sv,Hombre,1940-04-14,santa ana,VIP
+1147,Diego López Castillo,diego.lopez.castillo6@seguro.sv,F,1964-01-14,S. Miguel,REGULAR
+1151,María Martínez Mendoza,maria.martinez.mendoza3@correo.com,Fem,1958-11-18,la libertad,Regular
+1158,Daniela Cruz Morales,daniela.cruz.morales3@seguro.sv,femenino,1941-07-18,SanSalvador,PREMIUM
+1159,Jorge López Morales,jorge.lopez.morales4@example.com,nan,2009-03-09,SS,REGULAR
+1165,Sofía Chávez Hernández,sofia.chavez.hernandez3@seguro.sv,Fem,1943-07-03,la libertad,nan
+1168,Ricardo Chávez Ramírez,ricardo.chavez.ramirez6@correo.com,Fem,1969-08-15,La Libertad,REGULAR
+1176,Paula Rojas Aguilar,paula.rojas.aguilar0@mail.com,Masculino,1969-05-06,LaLibertad,Pyme
+1188,Valeria Ortiz Vásquez,valeria.ortiz.vasquez5@gmail.com,M,1950-07-24,La Libertad,vip
+1200,Lucía Santos López,lucia.santos.lopez3@example.com,Mujer,1954-09-18,Santa Ana,Premium
+1212,José Torres Chávez,jose.torres.chavez1@seguro.sv,femenino,1985-01-15,San Miguel,Premium
+1213,Andrés Ortiz Morales,andres.ortiz.morales2@mail.com,femenino,2000-07-13,san miguel,nan
+1215,Karla Vásquez Flores,karla.vasquez.flores4@example.com,F,1978-03-11,san miguel,Regular
+1219,Juan Pérez Torres,juan.perez.torres1@mail.com,nan,2004-12-07,SS,Regular
+1224,José Cruz Cruz,jose.cruz.cruz6@correo.com,M,1941-08-15,San Miguel,PYME
+1226,Pedro Chávez Pérez,pedro.chavez.perez1@seguro.sv,Masculino,1981-06-11,SantaAna,Regular
+1228,Carlos Castillo Reyes,carlos.castillo.reyes3@mail.com,Fem,1980-07-03,sonsonate,nan
+1229,Pedro Santos Rojas,pedro.santos.rojas4@mail.com,Female,1977-04-07,la libertad,Pyme
+1235,Andrés Rojas Ramírez,andres.rojas.ramirez3@correo.com,Fem,1997-02-04,Sonsonate,vip
+1236,Karla Santos Rojas,karla.santos.rojas4@correo.com,Fem,1942-01-18,La Libertad,REGULAR
+1238,Ricardo Ramírez Reyes,ricardo.ramirez.reyes6@mail.com,Masculino,1951-11-25,LaLibertad,PREMIUM
+1251,María Reyes Cruz,maria.reyes.cruz5@correo.com,Female,1967-10-01,San salvador,REGULAR
+1259,Ana Flores Rojas,ana.flores.rojas6@correo.com,femenino,1993-12-13,La Libertad,Regular
+1263,Marta Mendoza Aguilar,marta.mendoza.aguilar3@gmail.com,Masculino,1949-03-26,Sta. Ana,Premium
+1264,Sofía Morales Gómez,sofia.morales.gomez4@correo.com,femenino,1954-03-03,La Libertad,Pyme
+1268,Marta Rojas Morales,marta.rojas.morales1@correo.com,Masculino,1969-03-21,Sonsonate,Regular
+1272,Carlos Santos Ramírez,carlos.santos.ramirez5@correo.com,femenino,1990-05-28,Sonso,nan
+1275,Luis Hernández Rojas,luis.hernandez.rojas1@seguro.sv,F,1978-05-03,San Salvador,REGULAR
+1282,Carlos Gómez Hernández,carlos.gomez.hernandez1@mail.com,Fem,1942-05-09,San Miguel,REGULAR
+1285,Sofía Ramírez Morales,sofia.ramirez.morales4@mail.com,Fem,1992-12-13,Sonsonate,vip
+1292,Carmen López Aguilar,carmen.lopez.aguilar4@example.com,Female,1958-04-23,San Miguel,VIP
+1306,Luis Cruz López,luis.cruz.lopez4@example.com,Hombre,1957-10-28,Santa Ana,nan
+1314,José Torres Aguilar,jose.torres.aguilar5@example.com,M,1960-10-30,Sonsonate,Premium
+1317,Andrés Martínez Hernández,andres.martinez.hernandez1@example.com,Female,2009-01-27,SanMiguel,Regular
+1318,Pedro García López,pedro.garcia.lopez2@seguro.sv,Masculino,1949-01-26,la libertad,nan
+1319,Andrés Flores Hernández,andres.flores.hernandez3@seguro.sv,Hombre,2010-01-22,Sonsonate,nan
+1325,Lucía Vásquez Gómez,lucia.vasquez.gomez2@example.com,femenino,1984-11-03,sonsonate,REGULAR
+1328,Sofía Santos Castillo,sofia.santos.castillo5@gmail.com,Female,1985-05-28,sonsonate,Pyme
+1330,Fernanda Vásquez Morales,fernanda.vasquez.morales0@mail.com,Female,1951-12-08,Sonsonate,REGULAR
+1332,Diego Chávez Ramírez,diego.chavez.ramirez2@correo.com,F,1953-01-15,LaLibertad,Pyme
+1334,Pedro Flores Rojas,pedro.flores.rojas4@correo.com,femenino,1973-03-19,San Miguel,Premium
+1335,Marta Cruz Ortiz,marta.cruz.ortiz5@gmail.com,nan,1991-12-10,San Miguel,nan
+1338,María Vásquez García,maria.vasquez.garcia1@example.com,F,2004-06-28,LaLibertad,Premium
+1341,Karla García Mendoza,karla.garcia.mendoza4@correo.com,Masculino,1977-02-11,santa ana,VIP
+1348,Carmen Chávez Gómez,carmen.chavez.gomez4@seguro.sv,F,1985-07-07,San Salvador,vip
+1352,Ricardo Santos Hernández,ricardo.santos.hernandez1@example.com,Hombre,1986-08-21,Sonsonate,nan
+1360,Juan Pérez Pérez,juan.perez.perez2@example.com,nan,1993-09-18,san miguel,Regular
+1366,María Cruz Rojas,maria.cruz.rojas1@correo.com,nan,1995-03-15,San Salvador,PREMIUM
+1369,Marta Chávez López,marta.chavez.lopez4@correo.com,Mujer,1979-07-10,San Miguel,Premium
+1370,Luis Ortiz Reyes,luis.ortiz.reyes5@mail.com,nan,1945-02-01,Sonsonate,nan
+1374,Valeria Vásquez Chávez,valeria.vasquez.chavez2@correo.com,nan,1982-12-26,san miguel,Premium
+1378,Daniela Ramírez Cruz,daniela.ramirez.cruz6@gmail.com,Masculino,1959-06-19,SanMiguel,nan
+1379,Andrés Vásquez Castillo,andres.vasquez.castillo0@seguro.sv,M,1959-02-26,L. Libertad,nan
+1381,Paula López Ramírez,paula.lopez.ramirez2@correo.com,Female,1974-08-17,SantaAna,nan
+1387,Juan Pérez Morales,juan.perez.morales1@correo.com,F,1982-06-02,SanMiguel,nan
+1399,Andrés Cruz Ramírez,andres.cruz.ramirez6@seguro.sv,femenino,1944-06-26,SantaAna,PREMIUM
+1402,Carmen Reyes Cruz,carmen.reyes.cruz2@gmail.com,Female,1954-07-28,La Libertad,Regular
+1405,María Reyes Santos,maria.reyes.santos5@example.com,m,2009-03-15,San Salvador,Regular
+1409,Luis Morales Vásquez,luis.morales.vasquez2@correo.com,Fem,1941-04-02,santa ana,vip
+1416,Marta Santos Reyes,marta.santos.reyes2@correo.com,femenino,2002-08-25,Santa Ana,nan
+1417,Diego Cruz Aguilar,diego.cruz.aguilar3@mail.com,femenino,1990-07-15,SanSalvador,Premium
+1421,Sofía Torres Torres,sofia.torres.torres0@mail.com,Masculino,1950-10-19,Sonso,PREMIUM
+1423,Pedro Chávez Pérez,pedro.chavez.perez2@gmail.com,Fem,1980-01-27,L. Libertad,vip
+1434,Daniela Gómez Morales,daniela.gomez.morales6@mail.com,m,1959-02-02,S. Miguel,nan
+1436,Lucía Hernández Castillo,lucia.hernandez.castillo1@gmail.com,m,1980-07-08,la libertad,Premium
+1437,José Martínez Morales,jose.martinez.morales2@correo.com,Masculino,2012-03-09,san miguel,nan
+1444,Carmen López Hernández,carmen.lopez.hernandez2@seguro.sv,Mujer,1947-09-22,S. Miguel,VIP
+1449,Paula Aguilar Ortiz,paula.aguilar.ortiz0@example.com,Hombre,1954-09-14,Sta. Ana,REGULAR
+1453,Luis Ramírez Morales,luis.ramirez.morales4@mail.com,Hombre,1947-05-02,San Salvador,vip
+1455,Pedro Ortiz Morales,pedro.ortiz.morales6@seguro.sv,Masculino,1986-12-06,SanMiguel,vip
+1456,Diego Chávez Pérez,diego.chavez.perez0@correo.com,F,2002-04-04,SanSalvador,Premium
+1463,María Cruz Hernández,maria.cruz.hernandez0@example.com,Masculino,1980-10-16,La Libertad,REGULAR
+1465,Paula García Mendoza,paula.garcia.mendoza2@gmail.com,nan,1956-04-04,SS,nan
+1476,Sofía Aguilar Aguilar,sofia.aguilar.aguilar6@correo.com,nan,1982-12-13,Sonsonate,Premium
+1477,Luis Mendoza Pérez,luis.mendoza.perez0@gmail.com,M,2008-03-24,santa ana,Pyme
+1480,Carmen Cruz Torres,carmen.cruz.torres3@mail.com,nan,1986-10-06,SanSalvador,vip
+1490,Valeria Aguilar Chávez,valeria.aguilar.chavez6@example.com,Hombre,1989-05-26,la libertad,Regular
+1492,José Vásquez Martínez,jose.vasquez.martinez1@example.com,M,1943-09-06,Sonso,Premium
+1494,Valeria Castillo Rojas,valeria.castillo.rojas3@gmail.com,Mujer,1961-08-04,San Miguel,REGULAR
+1500,Ricardo Rojas Mendoza,ricardo.rojas.mendoza2@seguro.sv,Hombre,1970-09-16,LaLibertad,nan
+1502,Pedro Morales Flores,pedro.morales.flores4@correo.com,nan,1962-04-26,La Libertad,nan
+1505,Ricardo Gómez Gómez,ricardo.gomez.gomez0@gmail.com,Mujer,1959-08-29,Santa Ana,Pyme
+1506,Pedro Martínez Cruz,pedro.martinez.cruz1@correo.com,M,1948-01-27,Sonsonate,Regular
+1511,Ana Reyes Gómez,ana.reyes.gomez6@mail.com,Hombre,2008-10-01,SanSalvador,Premium
+1513,Diego Chávez Gómez,diego.chavez.gomez1@correo.com,Fem,2003-09-19,San Salvador,Pyme
+1524,Paula Vásquez Torres,paula.vasquez.torres5@mail.com,Hombre,1969-04-18,SanSalvador,PYME
+1526,Paula Flores Pérez,paula.flores.perez0@correo.com,M,1952-10-03,L. Libertad,Pyme
+1530,Marta Torres Vásquez,marta.torres.vasquez4@example.com,Mujer,1982-01-25,Sonso,REGULAR
+1532,Valeria Reyes Mendoza,valeria.reyes.mendoza6@seguro.sv,F,1966-12-19,S. Miguel,vip
+1536,Pedro Hernández Castillo,pedro.hernandez.castillo3@seguro.sv,nan,1961-02-21,SantaAna,Pyme
+1537,Diego Castillo Cruz,diego.castillo.cruz4@example.com,Fem,1994-10-11,San Miguel,Pyme
+1538,María Hernández García,maria.hernandez.garcia5@mail.com,Fem,1947-05-21,LaLibertad,vip
+1541,Carmen Morales Aguilar,carmen.morales.aguilar1@example.com,Mujer,1949-08-24,San Salvador,Regular
+1542,Luis García Chávez,luis.garcia.chavez2@correo.com,m,1994-05-19,SanSalvador,nan
+1550,Ricardo Reyes Pérez,ricardo.reyes.perez3@correo.com,Hombre,1943-10-09,L. Libertad,PREMIUM
+1552,Ricardo Mendoza Ramírez,ricardo.mendoza.ramirez5@gmail.com,Female,1958-12-08,La Libertad,nan
+1553,Karla Torres Ramírez,karla.torres.ramirez6@mail.com,nan,1979-01-08,Sonso,nan
+1569,Paula García Pérez,paula.garcia.perez1@gmail.com,M,1948-08-10,SantaAna,PYME
+1573,Ana López Castillo,ana.lopez.castillo5@mail.com,Fem,1969-05-27,Sonsonate,vip
+1580,Andrés López Mendoza,andres.lopez.mendoza5@correo.com,nan,1964-07-08,Santa Ana,Pyme
+1596,Jorge Ramírez Morales,jorge.ramirez.morales0@gmail.com,Mujer,2000-02-04,San Miguel,Pyme
+1598,Ricardo Cruz Rojas,ricardo.cruz.rojas2@mail.com,M,1990-06-16,santa ana,Pyme
+1599,Juan Ramírez Chávez,juan.ramirez.chavez3@mail.com,M,1976-12-29,la libertad,PREMIUM
+1609,Daniela Santos Santos,daniela.santos.santos6@correo.com,Mujer,1969-08-11,sonsonate,PYME
+1610,Andrés Gómez Torres,andres.gomez.torres0@example.com,Female,2011-04-19,Santa Ana,PREMIUM
+1614,María Reyes Mendoza,maria.reyes.mendoza4@example.com,femenino,1988-03-23,santa ana,VIP
+1618,María García Ramírez,maria.garcia.ramirez1@mail.com,nan,1983-02-18,San Miguel,nan
+1633,Carlos Martínez Gómez,carlos.martinez.gomez2@example.com,femenino,1976-03-06,Sta. Ana,PREMIUM
+1634,Ana García Aguilar,ana.garcia.aguilar3@example.com,Female,1973-11-05,Sonsonate,nan
+1640,Diego Martínez Rojas,diego.martinez.rojas2@mail.com,Mujer,1943-02-12,L. Libertad,Pyme
+1645,María Hernández Mendoza,maria.hernandez.mendoza0@example.com,M,1997-05-09,san miguel,PREMIUM
+1648,María García Flores,maria.garcia.flores3@example.com,Fem,1943-04-10,Sonsonate,VIP
+1653,Carmen Rojas Santos,carmen.rojas.santos1@seguro.sv,nan,1949-10-04,Santa Ana,PREMIUM
+1658,Paula Flores Santos,paula.flores.santos6@gmail.com,Mujer,2012-06-05,La Libertad,nan
+1662,Carlos Pérez Rojas,carlos.perez.rojas3@mail.com,nan,1976-04-06,San Salvador,PYME
+1665,Ana Castillo López,ana.castillo.lopez6@mail.com,Fem,1970-12-03,Sonsonate,REGULAR
+1670,Ricardo Cruz López,ricardo.cruz.lopez4@gmail.com,nan,1940-08-01,LaLibertad,vip
+1673,Juan Chávez Rojas,juan.chavez.rojas0@gmail.com,Masculino,2009-05-29,LaLibertad,Premium
+1677,Jorge Torres García,jorge.torres.garcia4@mail.com,nan,2008-12-31,Sonso,vip
+1680,Karla Gómez López,karla.gomez.lopez0@seguro.sv,Masculino,1974-01-28,san miguel,PYME
+1685,María López Gómez,maria.lopez.gomez5@seguro.sv,Mujer,1997-05-01,Santa Ana,PREMIUM
+1686,Valeria Mendoza Rojas,valeria.mendoza.rojas6@example.com,nan,1955-05-25,la libertad,Pyme
+1692,Luis García Mendoza,luis.garcia.mendoza5@correo.com,M,1998-06-06,Sta. Ana,nan
+1695,Karla Cruz Ortiz,karla.cruz.ortiz1@gmail.com,Female,1978-11-10,san miguel,Regular
+1699,Valeria Morales García,valeria.morales.garcia5@seguro.sv,nan,1995-02-01,Sonsonate,Pyme
+1701,Jorge Ramírez Aguilar,jorge.ramirez.aguilar0@gmail.com,femenino,2007-04-07,SanSalvador,Premium
+1704,Pedro Flores Flores,pedro.flores.flores3@seguro.sv,nan,1956-05-17,la libertad,Premium
+1705,Pedro Torres Castillo,pedro.torres.castillo4@correo.com,m,1956-08-28,Sonso,Pyme
+1708,Carmen Morales Santos,carmen.morales.santos0@correo.com,femenino,1959-11-20,Sonso,vip
+1716,Juan Vásquez Gómez,juan.vasquez.gomez1@gmail.com,M,1980-12-18,Sonsonate,nan
+1730,Paula Vásquez López,paula.vasquez.lopez1@seguro.sv,nan,1987-10-10,SanSalvador,Premium
+1734,Sofía Ramírez Chávez,sofia.ramirez.chavez5@correo.com,Mujer,2010-08-16,Santa Ana,REGULAR
+1741,Daniela Aguilar Hernández,daniela.aguilar.hernandez5@example.com,Fem,1959-03-22,Sonsonate,PREMIUM
+1743,Sofía Gómez Martínez,sofia.gomez.martinez0@gmail.com,nan,1943-12-28,La Libertad,nan
+1744,Daniela Santos Chávez,daniela.santos.chavez1@example.com,m,1971-05-04,san miguel,PREMIUM
+1747,Jorge García López,jorge.garcia.lopez4@gmail.com,Fem,2009-11-18,San Miguel,vip
+1753,Diego Ramírez Torres,diego.ramirez.torres3@mail.com,Female,2006-12-30,SantaAna,Pyme
+1757,Pedro Vásquez Morales,pedro.vasquez.morales0@mail.com,Masculino,2010-12-17,Sonso,Premium
+1762,Andrés Santos López,andres.santos.lopez5@correo.com,Female,1976-12-28,SS,REGULAR
+1773,Pedro Ortiz Mendoza,pedro.ortiz.mendoza2@seguro.sv,nan,2000-09-05,SanMiguel,VIP
+1775,Andrés Morales Rojas,andres.morales.rojas4@gmail.com,M,1953-05-11,santa ana,PYME
+1779,Diego García Reyes,diego.garcia.reyes1@example.com,Mujer,2010-05-18,Sonsonate,nan
+1783,Diego Gómez Reyes,diego.gomez.reyes5@gmail.com,m,1979-03-13,Sonso,nan
+1789,Luis Gómez Hernández,luis.gomez.hernandez4@example.com,Hombre,1980-06-26,Santa Ana,PYME
+1792,Karla Morales García,karla.morales.garcia0@mail.com,Fem,2008-08-05,La Libertad,Regular
+1800,Luis López Mendoza,luis.lopez.mendoza1@correo.com,Female,1991-06-26,La Libertad,nan
+1808,Karla Ortiz Santos,karla.ortiz.santos2@mail.com,Hombre,2007-07-22,SanSalvador,PYME
+1809,Fernanda Pérez Hernández,fernanda.perez.hernandez3@example.com,nan,1964-05-10,San salvador,REGULAR
+1811,Diego Santos Morales,diego.santos.morales5@seguro.sv,Female,2002-06-26,La Libertad,Regular
+1814,José García Aguilar,jose.garcia.aguilar1@mail.com,Masculino,1947-01-19,Sonsonate,Pyme
+1815,Sofía Rojas Reyes,sofia.rojas.reyes2@correo.com,M,1962-04-19,Sonso,REGULAR
+1816,Pedro Torres Martínez,pedro.torres.martinez3@mail.com,F,1973-12-31,Sonso,Premium
+1819,Andrés Vásquez Aguilar,andres.vasquez.aguilar6@gmail.com,F,2007-11-06,L. Libertad,REGULAR
+1825,Fernanda Mendoza Morales,fernanda.mendoza.morales5@mail.com,nan,2030-09-01,Sonsonate,PYME
+1826,Ricardo Ortiz Pérez,ricardo.ortiz.perez6@correo.com,Mujer,1957-07-28,SanMiguel,VIP
+1832,María Hernández Pérez,maria.hernandez.perez5@seguro.sv,Female,1957-05-13,Sonsonate,nan
+1857,Pedro Ortiz Ramírez,pedro.ortiz.ramirez2@correo.com,Female,1978-07-26,SantaAna,nan
+1873,Lucía Ortiz Vásquez,lucia.ortiz.vasquez4@mail.com,femenino,1940-07-23,San Salvador,vip
+1875,María Martínez Vásquez,maria.martinez.vasquez6@seguro.sv,F,1960-05-26,santa ana,VIP
+1888,Karla Hernández Cruz,karla.hernandez.cruz5@mail.com,nan,1948-12-11,La Libertad,nan
+1892,Juan García Reyes,juan.garcia.reyes2@correo.com,femenino,1949-12-16,SanMiguel,nan
+1898,Carmen Ortiz Vásquez,carmen.ortiz.vasquez1@correo.com,femenino,1971-01-19,san miguel,VIP
+1899,Pedro Morales García,pedro.morales.garcia2@seguro.sv,Mujer,1942-12-25,San Salvador,Pyme
+1908,Marta Santos Ortiz,marta.santos.ortiz4@seguro.sv,femenino,2010-11-14,Santa Ana,Premium
+1915,Paula Aguilar Gómez,paula.aguilar.gomez4@seguro.sv,Hombre,2003-02-26,San Salvador,REGULAR
+1947,Andrés Cruz Chávez,andres.cruz.chavez1@mail.com,F,1960-04-10,SanSalvador,nan
+1949,Carmen Ramírez Vásquez,carmen.ramirez.vasquez3@correo.com,nan,1999-01-10,L. Libertad,Regular
+1958,Pedro Ramírez Cruz,pedro.ramirez.cruz5@seguro.sv,Masculino,1953-04-23,Santa Ana,nan
+1961,Paula Martínez Mendoza,paula.martinez.mendoza1@seguro.sv,M,1956-10-24,santa ana,Pyme
+1963,Fernanda Gómez García,fernanda.gomez.garcia3@seguro.sv,Female,1984-03-24,SanMiguel,PYME
+1968,Valeria Hernández Cruz,valeria.hernandez.cruz1@example.com,Masculino,1940-07-25,San Miguel,nan
+1978,Luis Chávez Morales,luis.chavez.morales4@seguro.sv,femenino,2000-07-20,Sonsonate,nan
+1979,Ricardo Ortiz Rojas,ricardo.ortiz.rojas5@correo.com,m,1971-08-13,san miguel,vip
+1980,Karla García Morales,karla.garcia.morales6@mail.com,Hombre,1969-07-01,san miguel,PREMIUM
+1989,Andrés Castillo Cruz,andres.castillo.cruz1@gmail.com,Female,1947-01-11,Sonsonate,nan
+1991,Valeria Castillo Cruz,valeria.castillo.cruz3@mail.com,Female,1967-07-30,SanSalvador,nan
+1992,Karla Santos Cruz,karla.santos.cruz4@example.com,Female,2007-07-21,L. Libertad,PREMIUM
+1994,Marta Mendoza Rojas,marta.mendoza.rojas6@seguro.sv,Masculino,1951-07-06,Sonsonate,nan
+1998,Valeria Santos Rojas,valeria.santos.rojas3@mail.com,Fem,1967-04-23,Santa Ana,VIP
+2001,María Santos Torres,maria.santos.torres6@example.com,femenino,1959-08-05,san miguel,Regular
+2002,Marta Morales Morales,marta.morales.morales0@correo.com,Hombre,1959-11-08,San Miguel,PREMIUM
+2005,Andrés Mendoza Morales,andres.mendoza.morales3@mail.com,F,2010-02-07,san miguel,nan
+2013,Valeria Vásquez Ramírez,valeria.vasquez.ramirez4@correo.com,Masculino,1945-01-10,Sonso,PYME
+2020,Valeria Mendoza Pérez,valeria.mendoza.perez4@correo.com,nan,1962-03-12,San salvador,vip
+2027,Sofía Castillo Castillo,sofia.castillo.castillo4@mail.com,Female,1967-02-05,Sonsonate,nan
+2036,Fernanda Reyes Hernández,fernanda.reyes.hernandez6@mail.com,Masculino,1957-06-14,San Salvador,Regular
+2038,Carmen García Vásquez,carmen.garcia.vasquez1@mail.com,femenino,2007-03-19,SantaAna,nan
+2039,Andrés Ortiz Aguilar,andres.ortiz.aguilar2@mail.com,M,1976-01-07,San Salvador,REGULAR
+2044,Ana Castillo García,ana.castillo.garcia0@gmail.com,Female,1944-01-30,Santa Ana,Regular
+2046,Andrés Santos Torres,andres.santos.torres2@example.com,Mujer,1993-04-18,San salvador,nan
+2061,Jorge Hernández Pérez,jorge.hernandez.perez3@example.com,Mujer,1969-01-14,Sonsonate,Premium
+2063,Jorge Torres López,jorge.torres.lopez5@seguro.sv,Fem,1979-12-05,LaLibertad,nan
+2064,Carlos García Chávez,carlos.garcia.chavez6@seguro.sv,F,1991-07-03,San Salvador,nan
+2067,Paula Mendoza Reyes,paula.mendoza.reyes2@gmail.com,Hombre,1958-07-03,SanSalvador,Regular
+2070,Fernanda Torres Martínez,fernanda.torres.martinez5@correo.com,Female,1941-08-15,S. Miguel,nan
+2075,Carlos Hernández Ortiz,carlos.hernandez.ortiz3@correo.com,nan,1963-06-03,SanMiguel,PYME
+2082,Ricardo Morales Castillo,ricardo.morales.castillo3@example.com,femenino,1988-07-20,Santa Ana,Pyme
+2093,Sofía Rojas García,sofia.rojas.garcia0@correo.com,Masculino,2010-08-26,sonsonate,Pyme
+2099,María Castillo Cruz,maria.castillo.cruz6@correo.com,Mujer,1958-10-31,Sonso,Pyme
+2101,Fernanda Torres Ortiz,fernanda.torres.ortiz1@gmail.com,F,1970-07-12,Sta. Ana,Premium
+2103,Valeria Mendoza Mendoza,valeria.mendoza.mendoza3@gmail.com,nan,1966-09-10,SanMiguel,Premium
+2104,Fernanda Vásquez Aguilar,fernanda.vasquez.aguilar4@gmail.com,femenino,1969-06-24,Santa Ana,vip
+2105,Jorge Martínez Gómez,jorge.martinez.gomez5@gmail.com,nan,1952-11-13,Sonsonate,Premium
+2109,Marta Rojas Ortiz,marta.rojas.ortiz2@gmail.com,Masculino,1950-03-27,La Libertad,vip
+2110,Valeria Reyes Santos,valeria.reyes.santos3@mail.com,Mujer,1941-01-07,Santa Ana,PYME
+2144,Lucía Rojas Pérez,lucia.rojas.perez2@correo.com,nan,1946-04-15,Sonsonate,VIP
+2154,Carlos Ortiz López,carlos.ortiz.lopez5@example.com,femenino,2000-09-30,Sonso,vip
+2155,Lucía Martínez Pérez,lucia.martinez.perez6@mail.com,femenino,1949-06-27,Sonsonate,Premium
+2158,Carlos Chávez Flores,carlos.chavez.flores2@correo.com,nan,1942-02-13,San Salvador,vip
+2166,Lucía López López,lucia.lopez.lopez3@mail.com,nan,1992-01-01,santa ana,Premium
+2178,María Gómez Torres,maria.gomez.torres1@gmail.com,Fem,1948-06-30,San Miguel,nan
+2179,José Rojas García,jose.rojas.garcia2@example.com,femenino,1996-05-15,SS,Pyme
+2194,Lucía Flores Castillo,lucia.flores.castillo3@mail.com,M,1997-09-01,la libertad,nan
+2199,Diego López Hernández,diego.lopez.hernandez1@example.com,Mujer,2003-07-16,La Libertad,PREMIUM
+2201,Juan Ramírez Hernández,juan.ramirez.hernandez3@gmail.com,Mujer,1993-05-08,San Salvador,vip
+2208,José Torres Aguilar,jose.torres.aguilar3@correo.com,m,1953-11-14,Sonsonate,Regular
+2210,José López Gómez,jose.lopez.gomez5@mail.com,m,2011-08-13,S. Miguel,PYME
+2217,Daniela García Cruz,daniela.garcia.cruz5@mail.com,nan,1942-02-11,San Salvador,REGULAR
+2239,José Hernández García,jose.hernandez.garcia6@seguro.sv,nan,1981-09-12,SanSalvador,vip
+2242,Sofía Santos Gómez,sofia.santos.gomez2@correo.com,nan,1956-10-16,Sonsonate,vip
+2246,Lucía Santos Cruz,lucia.santos.cruz6@seguro.sv,Fem,1950-02-24,SanMiguel,Pyme
+2249,Diego Pérez Chávez,diego.perez.chavez2@seguro.sv,Fem,2002-11-12,San salvador,nan
+2255,Pedro Castillo Cruz,pedro.castillo.cruz1@example.com,Hombre,1995-08-06,San Salvador,PREMIUM
+2258,Carlos Reyes Martínez,carlos.reyes.martinez4@gmail.com,Hombre,1960-04-11,Sonso,PREMIUM
+2266,Luis Mendoza Morales,luis.mendoza.morales5@correo.com,F,1962-08-06,La Libertad,PYME
+2278,Fernanda Gómez Gómez,fernanda.gomez.gomez3@mail.com,M,1956-06-20,Sta. Ana,Pyme
+2293,Fernanda Chávez López,fernanda.chavez.lopez4@seguro.sv,Mujer,1947-10-06,sonsonate,Premium
+2295,Ricardo Gómez Cruz,ricardo.gomez.cruz6@example.com,Masculino,1964-02-07,La Libertad,Regular
+2312,Luis Pérez Hernández,luis.perez.hernandez2@example.com,m,2002-04-21,La Libertad,nan
+2314,Ana Aguilar Ramírez,ana.aguilar.ramirez4@correo.com,Hombre,2012-08-18,San Salvador,nan
+2316,Ana Ortiz Rojas,ana.ortiz.rojas6@correo.com,nan,1967-08-18,san miguel,VIP
+2325,Daniela García Chávez,daniela.garcia.chavez1@gmail.com,Fem,1954-04-18,La Libertad,Premium
+2332,Luis Castillo Gómez,luis.castillo.gomez1@correo.com,nan,1998-12-31,San Salvador,vip
+2339,Andrés Castillo Santos,andres.castillo.santos1@gmail.com,Female,1946-08-11,la libertad,Premium
+2341,Ana Morales Rojas,ana.morales.rojas3@seguro.sv,Mujer,1975-09-20,la libertad,PREMIUM
+2343,Diego Ramírez Reyes,diego.ramirez.reyes5@seguro.sv,nan,2007-06-03,Sonsonate,PYME
+2354,Paula Torres Rojas,paula.torres.rojas2@gmail.com,nan,1976-09-11,SanMiguel,Premium
+2358,Jorge Gómez Martínez,jorge.gomez.martinez6@gmail.com,Mujer,1953-02-25,San Salvador,PREMIUM
+2363,Pedro García Flores,pedro.garcia.flores4@example.com,F,1971-07-20,San Salvador,REGULAR
+2368,Sofía Santos Morales,sofia.santos.morales2@mail.com,Masculino,1975-04-26,San Miguel,nan
+2384,Fernanda Santos Hernández,fernanda.santos.hernandez4@gmail.com,F,1940-12-24,San salvador,VIP
+2386,Pedro Santos Chávez,pedro.santos.chavez6@correo.com,M,2002-06-14,SantaAna,VIP
+2389,Daniela García Hernández,daniela.garcia.hernandez2@gmail.com,M,1990-01-04,Sonsonate,REGULAR
+2392,Diego Rojas Hernández,diego.rojas.hernandez5@correo.com,Female,2012-09-29,La Libertad,PYME
+2398,Jorge Martínez Reyes,jorge.martinez.reyes4@gmail.com,M,2004-10-31,Sonsonate,Pyme
+2403,Sofía Pérez Torres,sofia.perez.torres2@correo.com,Masculino,2002-09-03,L. Libertad,Regular
+2420,Juan Santos Torres,juan.santos.torres5@mail.com,Female,1968-04-04,santa ana,Pyme
+2425,Lucía Chávez Mendoza,lucia.chavez.mendoza3@gmail.com,Hombre,2002-06-13,santa ana,PREMIUM
+2426,Paula Mendoza Ortiz,paula.mendoza.ortiz4@example.com,m,1998-03-21,San Miguel,Pyme
+2427,Daniela Martínez Morales,daniela.martinez.morales5@correo.com,Female,2002-07-30,SanMiguel,Regular
+2429,Paula Torres Flores,paula.torres.flores0@seguro.sv,Masculino,1990-11-25,Santa Ana,nan
+2433,Ricardo Rojas Flores,ricardo.rojas.flores4@seguro.sv,femenino,2030-07-17,La Libertad,Premium
+2436,Sofía Ramírez Mendoza,sofia.ramirez.mendoza0@seguro.sv,F,1976-06-21,Sta. Ana,PYME
+2443,Marta Aguilar Cruz,marta.aguilar.cruz0@mail.com,femenino,1991-05-30,Sonsonate,Premium
+2450,Lucía Torres Flores,lucia.torres.flores0@seguro.sv,Female,1954-11-14,Santa Ana,PYME
+2457,Marta Ramírez Santos,marta.ramirez.santos0@gmail.com,Hombre,1987-01-31,SanSalvador,PREMIUM
+2458,Paula Mendoza García,paula.mendoza.garcia1@example.com,nan,1971-08-24,San Salvador,nan
+2462,María Ortiz Ortiz,maria.ortiz.ortiz5@gmail.com,m,1948-12-13,Sonsonate,vip
+2464,Juan Chávez Santos,juan.chavez.santos0@correo.com,Mujer,1951-11-02,SantaAna,nan
+2466,Juan Cruz Reyes,juan.cruz.reyes2@example.com,nan,1943-12-20,Sonsonate,nan
+2486,Ana Santos Santos,ana.santos.santos1@correo.com,M,1974-06-29,SantaAna,Pyme
+2490,Ricardo Vásquez Torres,ricardo.vasquez.torres5@seguro.sv,nan,2006-06-03,SS,Premium
+2499,Luis Vásquez García,luis.vasquez.garcia0@gmail.com,nan,1950-04-08,Sonsonate,nan
+2509,Ricardo Martínez Hernández,ricardo.martinez.hernandez3@example.com,Mujer,1968-04-06,Santa Ana,vip
+2515,Luis Ramírez Castillo,luis.ramirez.castillo2@example.com,Female,1956-08-28,LaLibertad,VIP
+2517,Diego Rojas Chávez,diego.rojas.chavez4@correo.com,Female,1997-02-11,Sonso,Premium
+2522,Sofía Ortiz Santos,sofia.ortiz.santos2@seguro.sv,Fem,2002-09-08,Sonso,PREMIUM
+2523,Luis Castillo Ramírez,luis.castillo.ramirez3@seguro.sv,nan,2003-06-08,Sta. Ana,vip
+2524,Marta Aguilar García,marta.aguilar.garcia4@seguro.sv,Masculino,1954-01-20,Sta. Ana,Regular
+2525,Sofía Castillo Rojas,sofia.castillo.rojas5@seguro.sv,Masculino,1989-03-18,SanSalvador,vip
+2529,Carmen López Hernández,carmen.lopez.hernandez2@seguro.sv,nan,1964-07-27,San Salvador,Premium
+2532,Lucía Ramírez Ramírez,lucia.ramirez.ramirez5@correo.com,Mujer,1993-08-20,San Miguel,PREMIUM
+2542,Juan Cruz Castillo,juan.cruz.castillo1@correo.com,Female,1952-12-14,S. Miguel,nan
+2549,Juan Aguilar Castillo,juan.aguilar.castillo1@seguro.sv,M,1995-02-22,san miguel,PREMIUM
+2553,Carlos Aguilar García,carlos.aguilar.garcia5@gmail.com,Mujer,2003-06-25,San Miguel,nan
+2559,Daniela Chávez Hernández,daniela.chavez.hernandez4@seguro.sv,nan,2030-11-27,Sonsonate,Regular
+2569,Carlos Pérez Ortiz,carlos.perez.ortiz0@gmail.com,m,1943-04-08,sonsonate,VIP
+2573,Ana Ortiz Flores,ana.ortiz.flores4@mail.com,nan,1956-09-26,La Libertad,VIP
+2576,Lucía Reyes Pérez,lucia.reyes.perez0@correo.com,nan,1979-11-06,SS,nan
+2594,Sofía Pérez Cruz,sofia.perez.cruz4@seguro.sv,nan,1947-06-07,SS,REGULAR
+2598,Jorge Gómez Ortiz,jorge.gomez.ortiz1@example.com,nan,1947-10-06,SanSalvador,vip
+2601,Pedro Santos Pérez,pedro.santos.perez4@seguro.sv,m,1946-06-04,San Miguel,REGULAR
+2603,Ana Cruz Chávez,ana.cruz.chavez6@correo.com,Mujer,1970-03-15,sonsonate,PREMIUM
+2604,María Ramírez Pérez,maria.ramirez.perez0@gmail.com,m,1963-04-18,LaLibertad,nan
+2606,Andrés Reyes Santos,andres.reyes.santos2@example.com,Masculino,1946-06-03,Santa Ana,vip
+2610,Paula Mendoza Castillo,paula.mendoza.castillo6@correo.com,Female,1992-10-23,S. Miguel,vip
+2611,Ana Castillo Rojas,ana.castillo.rojas0@mail.com,nan,1996-02-11,Santa Ana,Pyme
+2613,Andrés Aguilar Gómez,andres.aguilar.gomez2@example.com,F,1993-08-01,La Libertad,PREMIUM
+2620,Luis Pérez López,luis.perez.lopez2@gmail.com,Female,1944-05-24,san miguel,Pyme
+2625,María Hernández Reyes,maria.hernandez.reyes0@seguro.sv,femenino,1966-03-05,San Salvador,VIP
+2631,Juan Pérez Chávez,juan.perez.chavez6@mail.com,nan,2010-11-25,Sonsonate,PREMIUM
+2636,Luis Ortiz Vásquez,luis.ortiz.vasquez4@correo.com,Masculino,1962-02-24,Sonsonate,Premium
+2643,Ricardo Aguilar Aguilar,ricardo.aguilar.aguilar4@mail.com,M,1980-11-24,san miguel,REGULAR
+2646,Juan Vásquez Aguilar,juan.vasquez.aguilar0@seguro.sv,M,2002-01-21,La Libertad,nan
+2662,Ana García Martínez,ana.garcia.martinez2@gmail.com,F,1945-02-06,Sonsonate,PREMIUM
+2663,María Ortiz Chávez,maria.ortiz.chavez3@mail.com,Female,1986-09-29,San salvador,nan
+2664,Diego Reyes Flores,diego.reyes.flores4@gmail.com,Fem,1945-10-13,San Salvador,PREMIUM
+2668,Juan Vásquez Ortiz,juan.vasquez.ortiz1@correo.com,F,1959-01-10,LaLibertad,PREMIUM
+2669,Karla Chávez Torres,karla.chavez.torres2@correo.com,M,1985-03-14,Sonsonate,Regular
+2671,Andrés Aguilar Hernández,andres.aguilar.hernandez4@seguro.sv,Fem,1985-09-02,sonsonate,Pyme
+2677,Lucía Castillo López,lucia.castillo.lopez3@gmail.com,femenino,1989-04-04,SS,VIP
+2691,Carlos Ortiz Cruz,carlos.ortiz.cruz3@example.com,m,1999-05-02,la libertad,Pyme
+2696,Paula Gómez López,paula.gomez.lopez1@example.com,Fem,1944-08-02,Santa Ana,VIP
+2712,Valeria Cruz Mendoza,valeria.cruz.mendoza3@mail.com,Female,1989-11-19,San Miguel,Regular
+2715,Paula Gómez Torres,paula.gomez.torres6@example.com,Female,1994-09-10,SS,Regular
+2719,Paula Ramírez Gómez,paula.ramirez.gomez3@seguro.sv,Fem,1985-09-07,San Salvador,nan
+2722,Daniela Chávez Aguilar,daniela.chavez.aguilar6@example.com,femenino,1940-02-02,Sonsonate,REGULAR
+2734,Andrés Cruz Flores,andres.cruz.flores4@mail.com,m,1990-04-18,Sonso,vip
+2735,Carmen Ramírez Chávez,carmen.ramirez.chavez5@mail.com,M,1940-07-29,San Salvador,Regular
+2736,Carlos Vásquez Flores,carlos.vasquez.flores6@seguro.sv,Fem,1972-08-06,L. Libertad,REGULAR
+2738,Daniela Mendoza Rojas,daniela.mendoza.rojas1@seguro.sv,Masculino,2007-04-17,SanMiguel,vip
+2743,Pedro Gómez Castillo,pedro.gomez.castillo6@gmail.com,nan,1985-11-16,la libertad,Pyme
+2744,Valeria Aguilar López,valeria.aguilar.lopez0@seguro.sv,Hombre,1962-06-14,La Libertad,nan
+2746,Ricardo Torres Cruz,ricardo.torres.cruz2@mail.com,femenino,1976-01-10,santa ana,nan
+2752,José Flores Ortiz,jose.flores.ortiz1@seguro.sv,femenino,1976-09-17,San Salvador,nan
+2755,Andrés Torres Castillo,andres.torres.castillo4@seguro.sv,Hombre,1994-08-14,San Salvador,nan
+2762,Luis Reyes Reyes,luis.reyes.reyes4@example.com,M,1949-06-30,Sta. Ana,nan
+2766,Lucía Mendoza Reyes,lucia.mendoza.reyes1@mail.com,m,2009-07-17,L. Libertad,REGULAR
+2767,Jorge Ortiz Chávez,jorge.ortiz.chavez2@mail.com,Hombre,1952-03-01,sonsonate,vip
+2774,Karla Castillo Chávez,karla.castillo.chavez2@mail.com,M,1976-11-26,La Libertad,REGULAR
+2778,Ana Ramírez Reyes,ana.ramirez.reyes6@example.com,Fem,1974-05-22,sonsonate,VIP
+2786,Ana Santos Vásquez,ana.santos.vasquez0@gmail.com,m,1954-08-19,Sonso,nan
+2789,Ana Martínez Santos,ana.martinez.santos3@example.com,Fem,2011-08-10,Sonsonate,PREMIUM
+2797,Marta Castillo Martínez,marta.castillo.martinez4@example.com,Fem,1952-03-05,La Libertad,PYME
+2800,Andrés Cruz Mendoza,andres.cruz.mendoza0@correo.com,nan,1998-01-11,SanSalvador,PREMIUM
+2808,Lucía Chávez Ortiz,lucia.chavez.ortiz1@gmail.com,Mujer,1968-02-04,Sonsonate,PYME
+2817,Jorge Vásquez Rojas,jorge.vasquez.rojas3@gmail.com,Hombre,1946-12-24,Sonsonate,REGULAR
+2821,Karla López Vásquez,karla.lopez.vasquez0@seguro.sv,femenino,2003-11-17,Sonso,VIP
+2825,Juan Castillo Aguilar,juan.castillo.aguilar4@correo.com,Masculino,1967-08-04,Sonsonate,Regular
+2827,Karla Flores Castillo,karla.flores.castillo6@correo.com,Masculino,1949-04-01,la libertad,REGULAR
+2830,Valeria Rojas Reyes,valeria.rojas.reyes2@example.com,Masculino,1987-12-14,Sonsonate,REGULAR
+2831,Carmen Hernández Aguilar,carmen.hernandez.aguilar3@example.com,Mujer,1989-05-17,San Salvador,nan
+2832,Carlos García Gómez,carlos.garcia.gomez4@example.com,femenino,1989-09-13,SanSalvador,PYME
+2835,Valeria Pérez Torres,valeria.perez.torres0@correo.com,M,1955-07-11,San Miguel,PYME
+2836,Diego Martínez Santos,diego.martinez.santos1@correo.com,M,2005-12-26,san miguel,PYME
+2839,Carlos López Chávez,carlos.lopez.chavez4@mail.com,F,1979-07-24,L. Libertad,nan
+2841,Fernanda Gómez Torres,fernanda.gomez.torres6@seguro.sv,Mujer,1993-01-08,S. Miguel,Premium
+2849,Pedro García Castillo,pedro.garcia.castillo0@mail.com,femenino,1970-01-09,San salvador,nan
+2856,María Hernández Ramírez,maria.hernandez.ramirez0@example.com,nan,1989-11-18,SanMiguel,vip
+2871,Daniela Torres Rojas,daniela.torres.rojas1@mail.com,F,1961-04-25,Sta. Ana,nan
+2883,Fernanda Torres López,fernanda.torres.lopez6@mail.com,m,1983-02-08,Sonsonate,nan
+2884,Daniela García Chávez,daniela.garcia.chavez0@mail.com,Fem,1983-05-10,S. Miguel,vip
+2889,Andrés Santos Gómez,andres.santos.gomez5@gmail.com,Female,1952-08-20,SanSalvador,Pyme
+2896,Pedro Mendoza Hernández,pedro.mendoza.hernandez5@mail.com,Fem,1998-08-21,San Miguel,PREMIUM
+2908,Diego Rojas Morales,diego.rojas.morales3@example.com,nan,2000-04-27,LaLibertad,vip
+2911,Diego Aguilar Santos,diego.aguilar.santos6@mail.com,Fem,1963-09-21,Sonsonate,Pyme
+2913,Marta Gómez Morales,marta.gomez.morales1@gmail.com,nan,1947-05-30,sonsonate,REGULAR
+2915,Carmen Vásquez Reyes,carmen.vasquez.reyes3@mail.com,M,1965-02-18,San Salvador,REGULAR
+2917,Fernanda Ortiz Hernández,fernanda.ortiz.hernandez5@seguro.sv,nan,2001-11-26,San Miguel,nan
+2923,Luis Martínez Castillo,luis.martinez.castillo4@gmail.com,nan,1988-12-12,SS,vip
+2926,Karla López Morales,karla.lopez.morales0@gmail.com,F,2010-05-23,La Libertad,PREMIUM
+2928,Pedro Ortiz Santos,pedro.ortiz.santos2@gmail.com,Fem,1948-12-15,LaLibertad,VIP
+2929,Paula Flores Gómez,paula.flores.gomez3@correo.com,M,1950-07-29,SantaAna,Premium
+2933,Marta García Aguilar,marta.garcia.aguilar0@example.com,nan,1967-12-12,Sta. Ana,vip
+2934,Ana Gómez García,ana.gomez.garcia1@mail.com,Fem,1967-04-18,santa ana,vip
+2935,Jorge Reyes Vásquez,jorge.reyes.vasquez2@gmail.com,nan,1986-01-16,Sonsonate,PREMIUM
+2938,Ana Reyes García,ana.reyes.garcia5@correo.com,m,1975-03-08,Sonso,PREMIUM
+2940,Juan López Morales,juan.lopez.morales0@example.com,m,1965-02-06,la libertad,vip
+2942,Valeria Reyes Hernández,valeria.reyes.hernandez2@gmail.com,F,2030-09-09,SanMiguel,PREMIUM
+2948,Lucía Mendoza Vásquez,lucia.mendoza.vasquez1@seguro.sv,nan,2006-07-15,sonsonate,Pyme
+2950,Paula Chávez Torres,paula.chavez.torres3@correo.com,Mujer,1973-08-09,la libertad,Pyme
+2969,Paula Reyes López,paula.reyes.lopez1@correo.com,nan,2009-12-20,L. Libertad,Regular
+2973,Luis Morales Aguilar,luis.morales.aguilar5@gmail.com,femenino,1946-10-09,San Salvador,PYME
+2977,Ricardo Santos Reyes,ricardo.santos.reyes2@mail.com,femenino,1985-05-08,S. Miguel,vip
+2984,Carlos Cruz Mendoza,carlos.cruz.mendoza2@correo.com,Mujer,2000-09-04,San salvador,Regular
+2995,Paula Rojas García,paula.rojas.garcia6@correo.com,nan,1997-11-09,la libertad,REGULAR
+2998,Diego Torres Ramírez,diego.torres.ramirez2@gmail.com,nan,1967-06-07,SS,REGULAR
+2999,Sofía Santos Gómez,sofia.santos.gomez3@example.com,Fem,2010-12-24,La Libertad,PREMIUM
+3008,Andrés Morales García (dup),andres.morales.garcia4@correo.com,Mujer,2005-01-10,SantaAna,Premium
+3011,Sofía Ramírez Chávez (dup),sofia.ramirez.chavez5@correo.com,Mujer,2010-08-16,Santa Ana,REGULAR
+3017,Carmen Ramírez Vásquez (dup),carmen.ramirez.vasquez3@correo.com,nan,1999-01-10,L. Libertad,Regular
+3024,Valeria Santos Mendoza (dup),valeria.santos.mendoza5@correo.com,m,1984-04-26,Sonsonate,Premium
